@@ -9,7 +9,7 @@
 # MarkDown@css[faded text-05]
 @snapend
 
----?image=audience.png&size=100% 30%&opacity=20
+---?image=audience.png&size=100% 40%&opacity=100
 
 ### What can MarkDown do for you?
 
