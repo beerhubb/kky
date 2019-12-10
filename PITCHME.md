@@ -14,10 +14,10 @@
 ### What can MarkDown do for you?
 
 @snap[north text-gray text-05 span-100]
-*มาชมความสามารถของ MarkDown กันเลย*
+*มาชมความสามารถของ MarkDown กันเลย...*
 @snapend
 
----?image=assets/img/audience.png&size=100% 40%
+---?image=audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
 #### GitPitch Desktop
@@ -29,14 +29,14 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] Enjoy a dedicated desktop tool on Linux, OSX, and Windows<sup>1</sup> for developing and presenting offline. See local changes to your presentation instantly reflected in a live preview in your browser.
+@fa[quote-left] สำหรับหัวเรื่องนะครับ ถ้าคุณอยากจะหัวใหญุ่ณก็แค่ใส่ # แค่อันเดียว ถ้าอยากทำให้เล็กกว่านั้นก็แค่ใส่ # เพิ่มตามความเหมาะสมได้เลยคะนับ
 @snapend
 
 @snap[south-west text-03]
 1. Windows 10 Pro + Enterprise Editions
 @snapend
 
----?image=assets/img/audience.png&size=100% 40%
+---?image=audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
 #### GitPitch Export
@@ -52,7 +52,7 @@
 PowerPoint & Office 365, LibreOffice, Apple Keynote & Apple iCloud, Google Slides, PDF, and LinkedIn SlideShare.
 @snapend
 
----?image=assets/img/audience.png&size=100% 40%
+---?image=audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
 #### GitPitch Security
@@ -67,7 +67,7 @@ PowerPoint & Office 365, LibreOffice, Apple Keynote & Apple iCloud, Google Slide
 @fa[quote-left] Activate public, private, and password-protected slideshow presentations powered by private Git repositories. Use GitPitch to secure your content and manage your slideshow audience in the cloud.
 @snapend
 
----?image=assets/img/audience.png&size=100% 40%
+---?image=audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
 #### GitPitch Surveys
@@ -82,7 +82,7 @@ PowerPoint & Office 365, LibreOffice, Apple Keynote & Apple iCloud, Google Slide
 @fa[quote-left] Turn any slideshow into a two-way conversation. Deliver your message using a GitPitch slide deck. Then gather feedback from your audience long after you leave the stage using rich, professional surveys.
 @snapend
 
----?image=assets/img/audience.png&size=100% 40%
+---?image=audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
 #### GitPitch Audio
@@ -97,8 +97,7 @@ PowerPoint & Office 365, LibreOffice, Apple Keynote & Apple iCloud, Google Slide
 @fa[quote-left] Activate a voice-over for individual slides and slide fragments, unlocking brand new ways to share knowledge, teach, and deliver training materials.
 @snapend
 
-
----?image=assets/img/audience.png&size=100% 40%
+---?image=audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
 #### GitPitch Power
