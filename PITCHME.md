@@ -25,10 +25,10 @@
 @snapend
 
 @snap[east span-50]
-![](image=head.png)
+![](https://sv1.picz.in.th/images/2019/12/10/i5BVQn.png)
 @snapend
 
-@snap[north-west span-35 pro-feature-details]
+@snap[west span-35 pro-feature-details]
 @fa[quote-left] สำหรับหัวเรื่องถ้าเราอยากจะทำหัวใหญ่เราก็แค่ใส่ # แค่นี้เองง่ายๆ ใช่ไหมครับ เราสามารถปรับตามความเหมาะสมได้เลย
 @snapend
 
