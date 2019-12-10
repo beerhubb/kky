@@ -44,8 +44,7 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] Use GitPitch Desktop to export any slide deck to Microsoft
-PowerPoint & Office 365, LibreOffice, Apple Keynote & Apple iCloud, Google Slides, PDF, and LinkedIn SlideShare.
+@fa[quote-left] การทำ *ตัวเอียง ตัวหนา ขีดฆ่า* สามารถทำได้ง่ายๆ เลยครับโดยการใช้ Syntax ต่อไปนี้ **ตัวอย่างตามลิงค์เลยครับ**  
 @snapend
 
 ---?image=audience.png&size=100% 40%
