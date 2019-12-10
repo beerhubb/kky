@@ -9,7 +9,7 @@
 # MarkDown@css[faded text-05]
 @snapend
 
----?image=audience.png&size=100% 40%color=lightgray&opacity=20
+---?image=audience.png&size=100% 40%
 
 ### What can MarkDown do for you?
 
@@ -17,7 +17,7 @@
 *มาชมความสามารถของ MarkDown กันเลย...*
 @snapend
 
----?image=audience.png&size=100% 40%color=lightgray&opacity=20
+---?image=audience.png&size=100% 40%color=lightgray&opacity=20%
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
