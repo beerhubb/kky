@@ -17,11 +17,11 @@
 *มาชมความสามารถของ MarkDown กันเลย...*
 @snapend
 
----?image=audience.png&size=100% 40%color=lightgray&opacity=20%
+---?image=audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
-[The Desktop Docs @fa[external-link fa-font]](https://gitpitch.com/docs/work-offline/desktop)
+[ตัวอย่างการทำหัวเรื่อง @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-headings)
 @snapend
 
 @snap[east span-50]
@@ -29,14 +29,14 @@
 @snapend
 
 @snap[west span-35 pro-feature-details]
-@fa[quote-left] **การทำหัวเรื่อง** ก็ง่ายๆ เลยครับแค่ใส่ # ข้างหน้าตัวอักษร
+@fa[quote-left] **การทำหัวเรื่อง** ก็ง่ายๆ เลยครับแค่ใส่ (#) ข้างหน้าตัวอักษร
 @snapend
 
 ---?image=audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
-[Pro + Lite Desktop Docs @fa[external-link fa-font]](https://gitpitch.com/docs/pro-features/desktop)
+[ตัวอย่างรูปแบบอักษรต่างๆ @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-section)
 @snapend
 
 @snap[east span-50]
@@ -51,7 +51,7 @@
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
-[Pro Security Docs @fa[external-link fa-font]](https://gitpitch.com/docs/pro-features/security)
+[ตัวอย่างการทำลิสต์แบบเรียง @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-ordered-list)
 @snapend
 
 @snap[east span-50]
@@ -64,9 +64,9 @@
 
 ---?image=audience.png&size=100% 40%
 
-@snap[north-east raleway-medium span-55]
+@snap[north-east raleway-medium span-60]
 #### วิธีการใช้งาน
-[Pro Surveys Docs @fa[external-link fa-font]](https://gitpitch.com/docs/pro-features/surveys)
+[ตัวอย่างการทำลิสต์แบบไม่เรียง @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-unordered-list)
 @snapend
 
 @snap[east span-50]
@@ -74,14 +74,14 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] **ลิสต์แบบไม่เรียงลำดับ** เราจะใช้ * อยู่ด้านหน้าตัวอักษร  วิธีการเขียนก็ตามลิงค์เลยครับ
+@fa[quote-left] **ลิสต์แบบไม่เรียงลำดับ** เราจะใช้ (*) อยู่ด้านหน้าตัวอักษร  วิธีการเขียนก็ตามลิงค์เลยครับ
 @snapend
 
 ---?image=audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
-[Pro Audio Docs @fa[external-link fa-font]](https://gitpitch.com/docs/pro-features/audio)
+[ตัวอย่างการใส่รูปภาพ @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-image--vdo)
 @snapend
 
 @snap[east span-50]
@@ -96,7 +96,7 @@
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
-[Pro + Lite Power Docs @fa[external-link fa-font]](https://gitpitch.com/docs/pro-features/power)
+[ตัวอย่างการใส่ลิ้งค์ @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-links)
 @snapend
 
 @snap[east span-50]
@@ -104,5 +104,5 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] **วิธีใส่ลิ้งค์** ก็เหมือนรูปภาพเลยครับแค่ลบ ! ข้างหน้าออก
+@fa[quote-left] **วิธีใส่ลิ้งค์** ก็เหมือนรูปภาพเลยครับแค่ลบ (!) ข้างหน้าออก
 @snapend
