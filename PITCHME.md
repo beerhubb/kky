@@ -25,7 +25,7 @@
 @snapend
 
 @snap[east span-50]
-![](https://sv1.picz.in.th/images/2019/12/10/i5BVQn.png)
+![](https://sv1.picz.in.th/images/2019/12/10/i5BVQn.png&size=cover&opacity=20)
 @snapend
 
 @snap[west span-35 pro-feature-details]
