@@ -2,19 +2,19 @@
 @title[Introduction]
 
 @snap[north-west raleway-medium]
-#### The Markdown Presentation Service on Git
+#### The Markdown Presentation
 @snapend
 
 @snap[west montserrat-heavy heading-white]
-# MarkDown@css[faded text-05](.com)
+# MarkDown@css[faded text-05]
 @snapend
 
----?image=assets/img/audience.png&size=100% 40%
+---?image=audience.png&size=100% 40%
 
-### What can GitPitch do for you?
+### What can MarkDown do for you?
 
 @snap[north text-gray text-05 span-100]
-*Conference Speakers. Consultants. Educators. Training Instructors. Pssst...*
+*มาชมความสามารถของ MarkDown กันเลย*
 @snapend
 
 ---?image=assets/img/audience.png&size=100% 40%
