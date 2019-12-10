@@ -29,7 +29,7 @@
 @snapend
 
 @snap[west span-35 pro-feature-details]
-@fa[quote-left] สำหรับการทำหัวเรื่องก็แค่ใส่ # ง่ายๆเลยครับ
+@fa[quote-left] **การทำหัวเรื่อง** ก็ง่ายๆ เลยครับแค่ใส่ # ข้างหน้าตัวอักษร
 @snapend
 
 ---?image=audience.png&size=100% 40%
@@ -44,7 +44,7 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] การทำ *ตัวเอียง ตัวหนา ขีดฆ่า* สามารถทำได้ง่ายๆ เลยครับโดยการใช้ Syntax ต่อไปนี้ **ตัวอย่างตามลิงค์เลยครับ**  
+@fa[quote-left] การทำ **ตัวเอียง ตัวหนา ขีดฆ่า** สามารถทำได้ง่ายๆ เลยครับโดยการใช้ Syntax ต่อไปนี้ **ตัวอย่างตามลิงค์เลยครับ**  
 @snapend
 
 ---?image=audience.png&size=100% 40%
@@ -59,7 +59,7 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] *ลิสต์แบบเรียงลำดับ* มีตัวเลขกำกับ เราสามารถเขียนตามปกติได้เลย
+@fa[quote-left] **ลิสต์แบบเรียงลำดับ** มีตัวเลขกำกับ เราสามารถเขียนตามปกติได้เลย
 @snapend
 
 ---?image=audience.png&size=100% 40%
@@ -74,7 +74,7 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] *ลิสต์แบบไม่เรียงลำดับ* เราจะใช้ * อยู่ด้านหน้าตัวอักษร  วิธีการเขียนก็ตามลิงค์เลยครับ
+@fa[quote-left] **ลิสต์แบบไม่เรียงลำดับ** เราจะใช้ * อยู่ด้านหน้าตัวอักษร  วิธีการเขียนก็ตามลิงค์เลยครับ
 @snapend
 
 ---?image=audience.png&size=100% 40%
@@ -85,11 +85,11 @@
 @snapend
 
 @snap[east span-50]
-![](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/80251011_2884530521565604_5069238419297665024_n.png)
+![](https://sv1.picz.in.th/images/2019/12/10/i5fnF8.png?fbclid=IwAR1fGf37p9oPRoUFOyV_xTYLg93jz_W0nau2Cj7FBA_cmE-PFXYWbG-SUxo)
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] *การใส่รูปภาพ* คือการนำรูปภาพจากเว็บหรือในเครื่องของเรามาใช้
+@fa[quote-left] **การใส่รูปภาพ** คือการนำรูปภาพจากเว็บหรือในเครื่องของเรามาใช้
 @snapend
 
 ---?image=audience.png&size=100% 40%
