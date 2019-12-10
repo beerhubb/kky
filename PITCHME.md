@@ -9,7 +9,7 @@
 # MarkDown@css[faded text-05]
 @snapend
 
----?image=audience.png&size=100% 40%&opacity=100
+---?image=audience.png&size=100% 40%color=lightgray
 
 ### What can MarkDown do for you?
 
@@ -17,7 +17,7 @@
 *มาชมความสามารถของ MarkDown กันเลย...*
 @snapend
 
----?image=audience.png&size=100% 40%
+---?image=audience.png&size=100% 40%color=lightgray
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
@@ -25,7 +25,7 @@
 @snapend
 
 @snap[east span-50]
-![](https://sv1.picz.in.th/images/2019/12/10/i5BVQn.png&size=cover&opacity=20)
+![](https://sv1.picz.in.th/images/2019/12/10/i5BVQn.png)
 @snapend
 
 @snap[west span-35 pro-feature-details]
