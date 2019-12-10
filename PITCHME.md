@@ -20,7 +20,7 @@
 ---?image=audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
-#### GitPitch Desktop
+#### วิธีการใช้งาน
 [The Desktop Docs @fa[external-link fa-font]](https://gitpitch.com/docs/work-offline/desktop)
 @snapend
 
@@ -35,7 +35,7 @@
 ---?image=audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
-#### GitPitch Export
+#### วิธีการใช้งาน
 [Pro + Lite Desktop Docs @fa[external-link fa-font]](https://gitpitch.com/docs/pro-features/desktop)
 @snapend
 
@@ -50,7 +50,7 @@
 ---?image=audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
-#### GitPitch Security
+#### วิธีการใช้งาน
 [Pro Security Docs @fa[external-link fa-font]](https://gitpitch.com/docs/pro-features/security)
 @snapend
 
@@ -65,7 +65,7 @@
 ---?image=audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
-#### GitPitch Surveys
+#### วิธีการใช้งาน
 [Pro Surveys Docs @fa[external-link fa-font]](https://gitpitch.com/docs/pro-features/surveys)
 @snapend
 
@@ -80,7 +80,7 @@
 ---?image=audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
-#### GitPitch Audio
+#### วิธีการใช้งาน
 [Pro Audio Docs @fa[external-link fa-font]](https://gitpitch.com/docs/pro-features/audio)
 @snapend
 
@@ -95,14 +95,14 @@
 ---?image=audience.png&size=100% 40%
 
 @snap[north-east raleway-medium span-55]
-#### GitPitch Power
+#### วิธีการใช้งาน
 [Pro + Lite Power Docs @fa[external-link fa-font]](https://gitpitch.com/docs/pro-features/power)
 @snapend
 
 @snap[east span-50]
-![](assets/img/features-pro-bonuses.jpg)
+![](https://sv1.picz.in.th/images/2019/12/10/i5hADv.png?fbclid=IwAR2MpGvpkB4T-QtDnEEKDDTNDW6S__9sqcHjLpIMUMZ9xPCmxgU6tPXovfI)
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] Beyond GitPitch Desktop, Security, and Surveys...Pro + Lite users enjoy *power* features including image opacity controls, UML diagrams, code ZOOM, Google Web Fonts, Emojis @emoji[heart_eyes] and more.
+@fa[quote-left] **วิธีใส่ลิ้งค์** ก็เหมือนรูปภาพเลยครับแค่ลบ ! ข้างหน้าออก
 @snapend
