@@ -59,7 +59,7 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] ลิสต์แบบเรียงลำดับมีตัวเลขกำกับ เราสามารถเขียนตามปกติได้เลย
+@fa[quote-left] *ลิสต์แบบเรียงลำดับ* มีตัวเลขกำกับ เราสามารถเขียนตามปกติได้เลย
 @snapend
 
 ---?image=audience.png&size=100% 40%
@@ -74,7 +74,7 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] ลิสต์แบบไม่เรียงลำดับ เราจะใช้ * อยู่ด้านหน้าตัวอักษร  วิธีการเขียนก็ตามลิงค์เลยครับ
+@fa[quote-left] *ลิสต์แบบไม่เรียงลำดับ* เราจะใช้ * อยู่ด้านหน้าตัวอักษร  วิธีการเขียนก็ตามลิงค์เลยครับ
 @snapend
 
 ---?image=audience.png&size=100% 40%
@@ -85,11 +85,11 @@
 @snapend
 
 @snap[east span-50]
-![](assets/img/features-audio.png)
+![](https://scontent.fkkc2-1.fna.fbcdn.net/v/t1.15752-9/80251011_2884530521565604_5069238419297665024_n.png)
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] Activate a voice-over for individual slides and slide fragments, unlocking brand new ways to share knowledge, teach, and deliver training materials.
+@fa[quote-left] *การใส่รูปภาพ* คือการนำรูปภาพจากเว็บหรือในเครื่องของเรามาใช้
 @snapend
 
 ---?image=audience.png&size=100% 40%
