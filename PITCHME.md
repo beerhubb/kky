@@ -70,11 +70,11 @@
 @snapend
 
 @snap[east span-50]
-![](assets/img/features-surveys.jpg)
+![](https://sv1.picz.in.th/images/2019/12/10/i5BXrg.png)
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] Turn any slideshow into a two-way conversation. Deliver your message using a GitPitch slide deck. Then gather feedback from your audience long after you leave the stage using rich, professional surveys.
+@fa[quote-left] ลิสต์แบบไม่เรียงลำดับ เราจะใช้ * อยู่ด้านหน้าตัวอักษร  วิธีการเขียนก็ตามลิงค์เลยครับ
 @snapend
 
 ---?image=audience.png&size=100% 40%
