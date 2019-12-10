@@ -29,7 +29,7 @@
 @snapend
 
 @snap[west span-35 pro-feature-details]
-@fa[quote-left] สำหรับการทำหัวเรื่องก็แค่ใส่ # ง่ายๆเลยครัลบ
+@fa[quote-left] สำหรับการทำหัวเรื่องก็แค่ใส่ # ง่ายๆเลยครับ
 @snapend
 
 ---?image=audience.png&size=100% 40%
@@ -55,11 +55,11 @@
 @snapend
 
 @snap[east span-50]
-![](assets/img/features-security.jpg)
+![](https://sv1.picz.in.th/images/2019/12/10/i5BHNS.png)
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] Activate public, private, and password-protected slideshow presentations powered by private Git repositories. Use GitPitch to secure your content and manage your slideshow audience in the cloud.
+@fa[quote-left] ลิสต์แบบเรียงลำดับมีตัวเลขกำกับ เราสามารถเขียนตามปกติได้เลย
 @snapend
 
 ---?image=audience.png&size=100% 40%
