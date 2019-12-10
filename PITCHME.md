@@ -1,7 +1,4 @@
----?image=i59.jpg&size=80% auto
-
-
-# kkk
+---?image=https://sv1.picz.in.th/images/2019/12/10/i59rRI.png
 
 ---?image=audience.png&size=100% 40%
 
