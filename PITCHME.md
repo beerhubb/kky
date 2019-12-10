@@ -28,12 +28,8 @@
 ![](assets/img/features-desktop.png)
 @snapend
 
-@snap[west span-40 pro-feature-details]
+@snap[north-west span-40 pro-feature-details]
 @fa[quote-left] สำหรับหัวเรื่องนะครับ ถ้าคุณอยากจะหัวใหญุ่ณก็แค่ใส่ # แค่อันเดียว ถ้าอยากทำให้เล็กกว่านั้นก็แค่ใส่ # เพิ่มตามความเหมาะสมได้เลยคะนับ
-@snapend
-
-@snap[south-west text-03]
-1. Windows 10 Pro + Enterprise Editions
 @snapend
 
 ---?image=audience.png&size=100% 40%
