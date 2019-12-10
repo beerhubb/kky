@@ -25,7 +25,7 @@
 @snapend
 
 @snap[east span-50]
-![](assets/img/features-desktop.png)
+![](head.png)
 @snapend
 
 @snap[north-west span-35 pro-feature-details]
