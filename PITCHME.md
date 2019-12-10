@@ -1,4 +1,4 @@
----?image=https://sv1.picz.in.th/images/2019/12/10/i59rRI.png?fbclid=IwAR1gr4M9htz65urrZMrqZe2PfRX0aYflND71MSZIkO-EBzmbbCAdESpQ3Y4
+---?image=https://sv1.picz.in.th/images/2019/12/10/i59rRI.png?fbclid=IwAR1gr4M9htz65urrZMrqZe2PfRX0aYflND71MSZIkO-EBzmbbCAdESpQ3Y4&size=100%
 @title[Introduction]
 
 ---?image=audience.png&size=100% 40%
