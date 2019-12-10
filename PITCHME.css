@@ -1,5 +1,13 @@
 .faded {
-    color: #CE7731;
-  }
+  color: #ce7731;
+}
 
-  
+.pro-feature-details {
+  color: #36454f !important;
+  font-size: 0.8em !important;
+}
+
+.feature-details {
+  color: #36454f !important;
+  font-size: 0.55em !important;
+}

@@ -1,4 +1,4 @@
----?image=assets/img/audience.png&opacity=100&color=#E58537&size=100% 40%
+---?image=audience.png&opacity=100&color=#E58537&size=100% 40%
 @title[Introduction]
 
 @snap[north-west raleway-medium]
