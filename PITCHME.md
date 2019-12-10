@@ -29,7 +29,7 @@
 @snapend
 
 @snap[west span-35 pro-feature-details]
-@fa[quote-left] สำหรับหัวเรื่องถ้าเราอยากจะทำหัวใหญ่เราก็แค่ใส่ # แค่นี้เองง่ายๆ ใช่ไหมครับ เราสามารถปรับตามความเหมาะสมได้เลย
+@fa[quote-left] สำหรับการทำหัวเรื่องก็แค่ใส่ # ง่ายๆเลยครัลบ
 @snapend
 
 ---?image=audience.png&size=100% 40%
