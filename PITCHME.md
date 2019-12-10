@@ -40,7 +40,7 @@
 @snapend
 
 @snap[east span-50]
-![](assets/img/features-export.jpg)
+![](https://sv1.picz.in.th/images/2019/12/10/i5Bp0W.png)
 @snapend
 
 @snap[west span-40 pro-feature-details]
