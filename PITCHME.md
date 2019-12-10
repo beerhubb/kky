@@ -28,7 +28,7 @@
 ![](assets/img/features-desktop.png)
 @snapend
 
-@snap[west span-80 pro-feature-details]
+@snap[west span-40 pro-feature-details]
 @fa[quote-left] สำหรับหัวเรื่องนะครับ ถ้าคุณอยากจะหัวใหญุ่ณก็แค่ใส่ # แค่อันเดียว ถ้าอยากทำให้เล็กกว่านั้นก็แค่ใส่ # เพิ่มตามความเหมาะสมได้เลยคะนับ
 @snapend
 

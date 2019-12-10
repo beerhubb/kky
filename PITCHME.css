@@ -12,7 +12,6 @@
   font-size: 0.55em !important;
 }
 
-/* General Use Styles */
 .heading-white h1,
 .heading-white h2,
 .heading-white h3,
@@ -26,13 +25,11 @@ sup {
   color: gray;
 }
 
-
-/* Fixed Theme Style Overrides */
 .reveal a:hover {
-  color: #BF5818;
+  color: rgb(96, 24, 191);
 }
 .reveal a {
-  color: #E58537;
+  color: rgb(75, 229, 55);
   font-size: 0.6em !important;
 }
 .reveal section img {
@@ -42,41 +39,6 @@ sup {
   color: gray;
 }
 
-/* GitPitch Footer Help Style Override */
 #title-footer p.footer-hard {
   color: gray;
-}
-
-/* GitPitch Pro Fonts Style Imports */
-@font-face {
-  font-family: 'Montserrat Heavy';
-  font-style: normal;
-  font-weight: 900;
-  src: url('/assets/fonts/montserrat-heavy.woff2') format('woff2'),
-       url('/assets/fonts/montserrat-heavy.woff') format('woff');
-}
-.montserrat-heavy,
-.montserrat-heavy * {
-  text-shadow: none !important;
-  text-transform: none !important;
-  font-family: "Montserrat Heavy", sans-serif !important;
-}
-@font-face {
-  font-family: 'Raleway Medium';
-  font-style: normal;
-  font-weight: 600;
-  src: url('/assets/fonts/raleway-medium.woff2') format('woff2'),
-       url('/assets/fonts/raleway-medium.woff') format('woff');
-}
-.raleway-medium,
-.raleway-medium * {
-  text-shadow: none !important;
-  text-transform: none !important;
-  font-family: "Raleway Medium", sans-serif !important;
-}
-
-.reveal h3 {
-  text-shadow: none !important;
-  text-transform: none !important;
-  font-family: "Raleway Medium", sans-serif !important;
 }
