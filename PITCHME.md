@@ -1,13 +1,5 @@
----?image=audience.png&opacity=100&color=#E58537&size=100% 40%
+---?image=https://sv1.picz.in.th/images/2019/12/10/i59rRI.png?fbclid=IwAR1gr4M9htz65urrZMrqZe2PfRX0aYflND71MSZIkO-EBzmbbCAdESpQ3Y4
 @title[Introduction]
-
-@snap[north-west raleway-medium]
-#### The Markdown Presentation
-@snapend
-
-@snap[west montserrat-heavy heading-white]
-# MarkDown@css[faded text-05]
-@snapend
 
 ---?image=audience.png&size=100% 40%
 
