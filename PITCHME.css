@@ -1,9 +1,9 @@
 .faded {
-  color: #ce8a31;
+  color: #b16533;
 }
 
 .pro-feature-details {
-  color: #ff0000 !important;
+  color: #b16533 !important;
   font-size: 0.8em !important;
 }
 
@@ -16,7 +16,7 @@
 .heading-white h2,
 .heading-white h3,
 .heading-white h4 {
-    color: white;
+    color: rgb(214, 121, 14);
 }
 .pad-bottom-5 {
   padding-bottom: 5em !important;
@@ -29,7 +29,7 @@ sup {
   color: rgb(96, 24, 191);
 }
 .reveal a {
-  color: rgb(75, 229, 55);
+  color: rgb(47, 81, 235);
   font-size: 0.6em !important;
 }
 .reveal section img {
