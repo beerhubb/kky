@@ -2,8 +2,9 @@
 @title[Introduction]
 
 ---?image=audience.png
-
+@snap[text-red text-10]
 ### What can MarkDown do for you?
+@snapend
 
 @snap[north text-gray text-05 span-100]
 *มาชมความสามารถของ MarkDown กันเลย...*

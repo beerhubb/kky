@@ -7,7 +7,4 @@ background-opacity : 75
 background-position : bottom
 background-size : 100% 40%
 
-logo : logo.png
-logo-postion : top-left
-
 layout : center
