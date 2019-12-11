@@ -21,6 +21,7 @@
 @snapend
 
 @snap[west span-35 pro-feature-details]
+
         ###### Hello World
         ##### Hello World
         #### Hello World
