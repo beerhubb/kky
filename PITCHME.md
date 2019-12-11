@@ -6,7 +6,7 @@
 ### What can MarkDown do for you?
 @snapend
 
-@snap[north text-red text-08 span-100]
+@snap[north text-gray text-10 span-100]
 *มาชมความสามารถของ MarkDown กันเลย...*
 @snapend
 
@@ -17,7 +17,7 @@
 [ตัวอย่างการทำหัวเรื่อง @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-headings)
 @snapend
 
-@snap[east span-50 text-08]
+@snap[east span-50 text-10]
 
 ###### Hello World  
 
