@@ -2,7 +2,7 @@
 @title[Introduction]
 
 ---?image=audience.png
-@snap[text-red text-10]
+@snap[text-red text-100]
 ### What can MarkDown do for you?
 @snapend
 
