@@ -1,6 +1,6 @@
 theme : simple
 
-theme-override: PITCHME.css
+
 
 background : audience.png
 background-opacity : 75
