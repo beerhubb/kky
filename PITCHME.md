@@ -21,7 +21,10 @@
 @snapend
 
 @snap[west span-35 pro-feature-details]
-@fa[quote-left] **การทำหัวเรื่อง** ก็ง่ายๆ เลยครับแค่ใส่ (#) ข้างหน้าตัวอักษร
+        ###### Hello World
+        ##### Hello World
+        #### Hello World
+        ### Hello World
 @snapend
 
 ---?image=audience.png&size=100% 40%
@@ -32,7 +35,10 @@
 @snapend
 
 @snap[east span-50]
-![](https://sv1.picz.in.th/images/2019/12/10/i5Bp0W.png)
+###### Hello World
+##### Hello World
+#### Hello World
+### Hello World
 @snapend
 
 @snap[west span-40 pro-feature-details]
