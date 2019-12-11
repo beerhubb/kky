@@ -6,7 +6,7 @@
 ### What can MarkDown do for you?
 @snapend
 
-@snap[north text-gray text-05 span-100]
+@snap[north text-red text-08 span-100]
 *มาชมความสามารถของ MarkDown กันเลย...*
 @snapend
 
