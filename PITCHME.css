@@ -1,5 +1,5 @@
 .faded {
-  color: #b16533;
+  color: #000000;
 }
 
 .pro-feature-details {
@@ -17,6 +17,7 @@
 .heading-white h3,
 .heading-white h4 {
     color: rgb(214, 121, 14);
+    font-style: normal;
 }
 .pad-bottom-5 {
   padding-bottom: 5em !important;

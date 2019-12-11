@@ -23,7 +23,8 @@
 ### Hello World
 @snapend
 
-@snap[west span-35 pro-feature-details]
+@snap[west span-50 pro-feature-details]
+@fa[quote-left] การทำ **หัวเรื่อง**
 
         ###### Hello World
         ##### Hello World
