@@ -16,9 +16,6 @@
 .heading-white h4 {
     color: rgb(214, 121, 14);
 }
-.pad-bottom-5 {
-  padding-bottom: 5em !important;
-}
 sup {
   color: gray;
 }
@@ -28,7 +25,6 @@ sup {
 }
 .reveal a {
   color: rgb(47, 81, 235);
-  font-size: 0.6em !important;
 }
 .reveal section img {
    box-shadow: 0 14px 20px 0 rgba(0,0,0,0.2),0 10px 24px 0 rgba(0,0,0,0.19) !important;
