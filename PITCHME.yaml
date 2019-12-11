@@ -12,13 +12,13 @@ theme : simple
 # Theme-Override Setting
 # Doc: https://gitpitch.com/docs/settings/custom-theme
 #
-theme-override: assets/css/PITCHME.css
+theme-override: PITCHME.css
 
 #
 # [Global] Background Settings
 # Doc: https://gitpitch.com/docs/settings/background
 #
-background : assets/img/audience.png
+background : audience.png
 background-opacity : 5
 background-position : bottom
 background-size : 100% 60%
