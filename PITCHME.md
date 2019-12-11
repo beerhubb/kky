@@ -24,12 +24,12 @@
 @snapend
 
 @snap[west span-50 pro-feature-details]
-@fa[quote-left] การทำ **หัวเรื่อง**
+@fa[quote-left] การทำ **หัวเรื่อง**  
 
-        ###### Hello World
-        ##### Hello World
-        #### Hello World
-        ### Hello World
+        ###### Hello World  
+        ##### Hello World  
+        #### Hello World  
+        ### Hello World  
 @snapend
 
 ---?image=audience.png&size=100% 40%
