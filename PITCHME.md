@@ -29,7 +29,7 @@
 @snapend
 
 @snap[west span-50 pro-feature-details]
- #### การทำ **หัวเรื่อง**  
+@fa[umbrella FA-LG] #### การทำ **หัวเรื่อง**  
 
 ```php
         ###### Hello World  
