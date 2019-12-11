@@ -17,10 +17,15 @@
 @snapend
 
 @snap[east span-50]
-###### Hello World
-##### Hello World
-#### Hello World
-### Hello World
+
+###### Hello World  
+
+##### Hello World  
+
+#### Hello World  
+
+### Hello World  
+
 @snapend
 
 @snap[west span-50 pro-feature-details]
@@ -28,9 +33,13 @@
 
 ```php
         ###### Hello World  
+
         ##### Hello World  
+
         #### Hello World  
+
         ### Hello World  
+
 ```
 
 @snapend
@@ -41,13 +50,21 @@
 #### วิธีการใช้งาน
 [ตัวอย่างรูปแบบอักษรต่างๆ @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-section)
 @snapend
+```
+        _ตัวเอียง_
+        *ตัวหนา*
+        ``ขีดฆ่า``
 
+```
 @snap[east span-50]
-
+        _ตัวเอียง_
+        *ตัวหนา*
+        ~~ขีดฆ่า~~
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] การทำ **ตัวเอียง ตัวหนา ขีดฆ่า** สามารถทำได้ง่ายๆ เลยครับโดยการใช้ Syntax ต่อไปนี้ **ตัวอย่างตามลิงค์เลยครับ**  
+@fa[quote-left] 
+ 
 @snapend
 
 ---?image=audience.png&size=100% 40%
@@ -62,10 +79,13 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] **ลิสต์แบบเรียงลำดับ** มีตัวเลขกำกับ เราสามารถเขียนตามปกติได้เลย
+@fa[quote-left] 
+        1.Hello
+        2.world
 @snapend
 
----?image=audience.png&size=100% 40%
+        1.Hello
+        2.world
 
 @snap[north-east raleway-medium span-60]
 #### วิธีการใช้งาน
