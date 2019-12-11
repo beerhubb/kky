@@ -16,7 +16,7 @@
 [ตัวอย่างการทำหัวเรื่อง @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-headings)
 @snapend
 
-@snap[east span-50]
+@snap[east span-50 text-center]
 
 ###### Hello World  
 
