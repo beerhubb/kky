@@ -19,7 +19,7 @@ theme-override: PITCHME.css
 # Doc: https://gitpitch.com/docs/settings/background
 #
 background : audience.png
-background-opacity : 20%
+background-opacity : 75
 background-position : bottom
 background-size : 100% 40%
 
