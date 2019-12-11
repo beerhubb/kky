@@ -1,7 +1,7 @@
----?image=https://sv1.picz.in.th/images/2019/12/10/i59rRI.png&size=100% 100%
+---?image=https://sv1.picz.in.th/images/2019/12/10/i59rRI.png&size=100% 101%
 @title[Introduction]
 
----?image=audience.png&size=100% 40%
+---?image=audience.png
 
 ### What can MarkDown do for you?
 
@@ -9,7 +9,7 @@
 *มาชมความสามารถของ MarkDown กันเลย...*
 @snapend
 
----?image=audience.png&size=100% 40%
+---?image=audience.png
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
