@@ -29,7 +29,7 @@
 @snapend
 
 @snap[west span-50 pro-feature-details]
-@fa[quote-left] #### การทำ **หัวเรื่อง**  
+ #### การทำ **หัวเรื่อง**  
 
 ```php
         ###### Hello World  
@@ -63,7 +63,7 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] 
+ 
  
 @snapend
 
@@ -79,7 +79,7 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] 
+
 
 ```php
         1.Hello
@@ -100,7 +100,7 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] 
+ 
         - Hello
         * สวัสดี
 
@@ -121,7 +121,7 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] **การใส่รูปภาพ** 
+ **การใส่รูปภาพ** 
         ```php
         ![Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
         ```
@@ -139,7 +139,7 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] **วิธีใส่ลิ้งค์** 
+ **วิธีใส่ลิ้งค์** 
         ```php
         [Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
         ```
