@@ -50,10 +50,10 @@
 #### วิธีการใช้งาน
 [ตัวอย่างรูปแบบอักษรต่างๆ @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-section)
 @snapend
-```
+```php
         _ตัวเอียง_
         *ตัวหนา*
-        ``ขีดฆ่า``
+        ~~ขีดฆ่า~~        
 
 ```
 @snap[east span-50]
@@ -80,8 +80,11 @@
 
 @snap[west span-40 pro-feature-details]
 @fa[quote-left] 
+
+```php
         1.Hello
         2.world
+```
 @snapend
 
         1.Hello
@@ -97,10 +100,16 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] **ลิสต์แบบไม่เรียงลำดับ** เราจะใช้ (*) อยู่ด้านหน้าตัวอักษร  วิธีการเขียนก็ตามลิงค์เลยครับ
+@fa[quote-left] 
+        - Hello
+        * สวัสดี
+
 @snapend
 
----?image=audience.png&size=100% 40%
+
+
+        - Hello
+        * สวัสดี
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
@@ -112,10 +121,13 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] **การใส่รูปภาพ** คือการนำรูปภาพจากเว็บหรือในเครื่องของเรามาใช้
+@fa[quote-left] **การใส่รูปภาพ** 
+        ```php
+        ![Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+        ```
 @snapend
 
----?image=audience.png&size=100% 40%
+        ![Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
 
 @snap[north-east raleway-medium span-55]
 #### วิธีการใช้งาน
@@ -127,5 +139,10 @@
 @snapend
 
 @snap[west span-40 pro-feature-details]
-@fa[quote-left] **วิธีใส่ลิ้งค์** ก็เหมือนรูปภาพเลยครับแค่ลบ (!) ข้างหน้าออก
+@fa[quote-left] **วิธีใส่ลิ้งค์** 
+        ```php
+        [Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
+        ```
+
 @snapend
+         [Google ](https://www.google.co.th/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png)
