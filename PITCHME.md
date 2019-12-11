@@ -17,7 +17,10 @@
 @snapend
 
 @snap[east span-50]
-![](https://sv1.picz.in.th/images/2019/12/10/i5BVQn.png)
+###### Hello World
+##### Hello World
+#### Hello World
+### Hello World
 @snapend
 
 @snap[west span-35 pro-feature-details]
@@ -36,10 +39,7 @@
 @snapend
 
 @snap[east span-50]
-###### Hello World
-##### Hello World
-#### Hello World
-### Hello World
+
 @snapend
 
 @snap[west span-40 pro-feature-details]
