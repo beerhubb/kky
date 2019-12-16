@@ -32,7 +32,7 @@
 @snap[west span-50 pro-feature-details]
 @fa[umbrella FA-LG] #### การทำ **หัวเรื่อง**  
 
-```php
+```md
         ###### Hello World  
   
         ##### Hello World  
@@ -51,7 +51,7 @@
 #### วิธีการใช้งาน
 [ตัวอย่างรูปแบบอักษรต่างๆ @fa[external-link fa-font]](https://leanpub.com/courses/leanpub/markdown111/read/preview/1?preview=true#leanpub-auto-section)
 @snapend
-```php
+```md
         _ตัวเอียง_
         *ตัวหนา*
         ~~ขีดฆ่า~~        
@@ -82,7 +82,7 @@
 @snap[west span-40 pro-feature-details]
 
 
-```php
+```md
         1.Hello
         2.world
 ```
